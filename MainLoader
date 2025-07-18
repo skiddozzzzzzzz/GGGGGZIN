@@ -1,0 +1,1 @@
+local p=game.PlaceId local [126884695634066]="GrowAGarden",[99567941238278]="InkGame",[125009265613167]="InkGame"}local s=d[p]if s then loadstring(game:HttpGet("https://raw.githubusercontent.com/skiddozzzzzzzz/GGGGGZIN/refs/heads/main/GrowAGardenAndInkGameScript.lua", true))()end
